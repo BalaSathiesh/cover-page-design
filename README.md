@@ -11,7 +11,7 @@ Step 4: Publish the website in the given URL.
 
 ## Code:
 cover.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -134,6 +134,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 
 </html>
+```
 
 ## Output:
 ![Screenshot (40)](https://github.com/BalaSathiesh/cover-page-design/assets/128462891/aa587519-5c32-4dda-a97a-8d196a6e630c)
