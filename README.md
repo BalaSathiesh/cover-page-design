@@ -1,12 +1,9 @@
 # cover-page-design
 AIM: To design a static web site for a book cover page.
-
-DESIGN STEPS: Step 1: Clone the github repository and create a django admin interface
-
+DESIGN STEPS:
+Step 1: Clone the github repository and create a django admin interface
 Step 2: Write HTML and CSS for designing book cover page and execute them .
-
 Step 3: Validate the HTML and CSS code.
-
 Step 4: Publish the website in the given URL.
 
 ## Code:
@@ -135,11 +132,9 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 </html>
 ```
-
 ## Output:
 ![Screenshot (40)](https://github.com/BalaSathiesh/cover-page-design/assets/128462891/aa587519-5c32-4dda-a97a-8d196a6e630c)
 ![image](https://github.com/BalaSathiesh/cover-page-design/assets/128462891/44033011-6d69-4c39-8fee-a64f6d1bafed)
-
 
 ## Result:
 program executed successfully
