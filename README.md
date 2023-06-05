@@ -138,8 +138,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Output:
 ![Screenshot (40)](https://github.com/BalaSathiesh/cover-page-design/assets/128462891/aa587519-5c32-4dda-a97a-8d196a6e630c)
-![Screenshot (39)](https://github.com/BalaSathiesh/cover-page-design/assets/128462891/2e22aaa6-fe52-45b3-b820-607603757810)
-
+![image](https://github.com/BalaSathiesh/cover-page-design/assets/128462891/44033011-6d69-4c39-8fee-a64f6d1bafed)
 
 
 ## Result:
